@@ -1,3 +1,5 @@
+//A Pokemon battle, by Jared Collier
+
 // in this file, we are going to be simulating a battle between two pokemon
 // pikachu
 //    vs
