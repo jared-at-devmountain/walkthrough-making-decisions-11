@@ -84,3 +84,5 @@ if (pikachuHealth > 0) {
     console.log('Pikachu survived the onslaught of duck claw.')
     console.log('Pikachu decided it had had enough, and fled!')
 }
+
+console.log('Pikachu tripped on a rock, and sustained 20 damage of HP and died in his plight.')
